@@ -7,7 +7,7 @@
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/luyang14/EC20x_lib.git"
+        "url": "https://github.com/luyang14/IOLTE_Lib.git"
     },
     "frameworks": "arduino",
     "platforms": "*"
