@@ -430,7 +430,7 @@ byte EC20xlib::ParseMsg(String data){
             if(eventcallback != NULL) eventcallback(MQTT_DISCONNECT);
         }
     }
-   //没有返回
+   return 0;
 }
 
 /*
